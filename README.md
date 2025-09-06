@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Puvuzilla
-- 👀 I’m interested in lots of stuffs
-- 🌱 I’m currently learning UI/UX designing
-- 💞️ I’m looking to collaborate on figma mostly
-- 📫 How to reach me just right here
+- 👋 Hi, I’m Promise
+- 🌱 I’m into Data Science and Analytics and ocassional on UI/UX designing
+- 🌱I turn complex data into clear insights with Excel, Power BI & SQL. Exploring Tableau & Python.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
